@@ -13,7 +13,7 @@ const client = new Discord.Client({
 client.on("ready", () => {
    console.log("Félicitations");
 });
-client.login("MzYyNTg2OTczNjE5MDkzNTI1.Wcujbw.fLfLeLrMPIBydEl0mcyEYCwaAcI");
+client.login("token ici");
 
 //Lucas ici c'est le prefix (ce que tu met pour la commande genre / ou !)
 const prefix = "/"
